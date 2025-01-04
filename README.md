@@ -1,5 +1,7 @@
-eCommerce Project
-For the development of our eCommerce platform, I adopted the MERN stack, comprising MongoDB, Express.js, React.js, and Node.js. This powerful technology stack enables the creation of a dynamic, scalable, and user-friendly web application, leveraging both front-end and back-end technologies. Below, I break down the components in more detail:
+Full_MERN_Stack_Ecommerce_Project
+
+
+For the development of this eCommerce platform, I adopted the MERN stack, comprising MongoDB, Express.js, React.js, and Node.js. This powerful technology stack enables the creation of a dynamic, scalable, and user-friendly web application, leveraging both front-end and back-end technologies. Below, I break down the components in more detail:
 
 1. Technology Stack
 MongoDB:
