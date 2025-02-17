@@ -20,3 +20,6 @@ const RefundPloicy = () => {
 };
 
 export default RefundPloicy;
+
+
+
